@@ -1,0 +1,3 @@
+EDA (Exploratory Data Analysis) is the process of examining a dataset to understand
+its main feature using statistics and visual tools.
+It helps you get insights before building any model.

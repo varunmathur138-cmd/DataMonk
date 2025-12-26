@@ -1,0 +1,3 @@
+Data cleaning means fixing or removing incorrect, duplicate ot incomplete data
+from your dataset. It ensure that the data is accurate and ready for analysis.
+
